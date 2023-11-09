@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 ChatBot-St-HugChat
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+ChatBot using HugChat
 
 ## Demo App
 
